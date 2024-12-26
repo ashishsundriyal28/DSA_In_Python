@@ -1,5 +1,5 @@
 # --------------------------------------------------------------------------
-# Ques 3. Max Product of Two Integers
+# Ques 4. Max Product of Two Integers
 # Find the maximum product of two integers in an array where all elements are positive.  
 
 # Example
